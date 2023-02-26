@@ -2,9 +2,9 @@
 
 <body>
     <form method="POST">
-        <label for="">Usename:</label>
+        <label for="">Tên đăng nhập:</label>
         <input type="text" name="txtUseName"><br><br>
-        <label for="">Pasword:</label>
+        <label for="">Mật khẩu:</label>
         <input type="password" name="txtpassword"><br><br>
         <input type="submit" name="btnlogin" value=""/>
     </form>
